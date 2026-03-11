@@ -1,7 +1,7 @@
 package com.learn_java.store;
 
 import jakarta.persistence.Entity;
-import org.springframework.data.annotation.Id;
+import jakarta.persistence.Id;
 
 import java.util.Objects;
 
